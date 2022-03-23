@@ -8,7 +8,7 @@ public class WebService {
 
     @GetMapping("/")
     public String hello(){
-        return "hello";
+        return "hello service1";
     }
 
 }
