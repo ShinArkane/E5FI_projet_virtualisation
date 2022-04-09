@@ -4,7 +4,7 @@ metadata:
   name: microservice2
 spec:
   ports:
-    - nodePort: 31281
+    - nodePort: 32500
       port: 8080
       protocol: TCP
       targetPort: 8080
