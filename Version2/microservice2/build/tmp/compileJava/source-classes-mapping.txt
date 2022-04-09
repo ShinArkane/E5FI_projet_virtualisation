@@ -1,4 +1,0 @@
-com/example/Microservice2/MyMicroService2Application.java
- com.example.Microservice2.MyMicroService2Application
-com/example/Microservice2/MyWebService2.java
- com.example.Microservice2.MyWebService2
